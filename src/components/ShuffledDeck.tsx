@@ -23,7 +23,6 @@ function ShowCard(props: { card: Card }) {
 }
 
 function AllCards(props: { cards: Deck }) {
-  let classname = "cards";
   const cardList =
     props.cards.length > 0
       ? props.cards.map((aCard) => <ShowCard key={aCard.symbol} card={aCard} />)

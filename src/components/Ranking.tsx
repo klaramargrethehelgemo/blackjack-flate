@@ -1,5 +1,5 @@
 import React from "react";
-import { EMDASH, Player, Stages } from "../data/datatypes";
+import { EMDASH, Player } from "../data/datatypes";
 import "./Ranking.css";
 
 function Ranking(props: {

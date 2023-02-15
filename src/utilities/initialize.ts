@@ -1,4 +1,4 @@
-import { Player, Stages, Deck } from "../data/datatypes";
+import { Player, Stages } from "../data/datatypes";
 import shuffleDeck from "./shuffleDeck";
 
 function initialize() {
