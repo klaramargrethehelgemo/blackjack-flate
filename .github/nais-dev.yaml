@@ -1,0 +1,14 @@
+apiVersion: "nais.io/v1alpha1"
+kind: "Application"
+metadata:
+  name: klara-blackjack-flate
+  namespace: obo
+  labels:
+    team: team-obo
+  annotations:
+    nais.io/read-only-file-system: "false"
+spec:
+  image: {{image}}
+  port: 8080
+  ingresses:
+    - https://klara-blackjack-flate.labs.nais.io

@@ -1,0 +1,67 @@
+.podium {
+    display: flex;
+    height: 10vh;
+    width: 50%;
+    align-items: flex-end;
+    padding: 0;
+    margin: 5vmin;
+
+}
+.podium li {
+    background: rgba(204, 204, 204, 0.5);
+    background-image: url("../kort.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    list-style: none;
+    flex: 1;
+    display: block;
+    margin: 0 0.5rem;
+    box-sizing: border-box;
+    text-align: center;
+    align-items: baseline;
+    font-size: calc(0.8rem + 3vw);
+    color: red;
+    border-bottom: solid 0.7rem;
+    border-color: black;
+
+}
+.podium li::before {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    width: 100%;
+}
+.podium li:first-child {
+    height: 90%;
+    order: 2;
+    background: linear-gradient(to right, green, 30%, yellow 40%, 55%, green);
+
+}
+.podium li:nth-child(2) {
+    height: 60%;
+    order: 1;
+    background: linear-gradient(to right, green, 30%, yellow 40%, 55%, green);
+
+}
+.podium li:nth-child(3) {
+    height: 60%;
+    order: 3;
+    text-align: center;
+    background: linear-gradient(to right, green, 30%, yellow 40%, 55%, green);
+
+}
+
+@media (max-width: 24em) {
+    .podium {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .podium li:nth-child(n) {
+        order: 0;
+        height: 4em;
+        min-height: 0;
+        margin: 0.5rem 0;
+    }
+}

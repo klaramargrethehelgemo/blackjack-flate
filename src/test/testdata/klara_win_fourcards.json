@@ -1,0 +1,261 @@
+[
+  {
+    "suit": "c",
+    "face": 4,
+    "symbol": "\uD83C\uDCD4"
+  },
+  {
+    "suit": "c",
+    "face": 5,
+    "symbol": "\uD83C\uDCD5"
+  },
+  {
+    "suit": "d",
+    "face": 2,
+    "symbol": "\uD83C\uDCC2"
+  },
+  {
+    "suit": "d",
+    "face": 3,
+    "symbol": "\uD83C\uDCC3"
+  },{
+  "suit": "d",
+  "face": 6,
+  "symbol": "\uD83C\uDCC6"
+},
+  {
+    "suit": "d",
+    "face": 4,
+    "symbol": "\uD83C\uDCC4"
+  },
+  {
+    "suit": "c",
+    "face": 6,
+    "symbol": "\uD83C\uDCD6"
+  },
+  {
+    "suit": "d",
+    "face": 7,
+    "symbol": "\uD83C\uDCC7"
+  },
+  {
+    "suit": "d",
+    "face": 5,
+    "symbol": "\uD83C\uDCC5"
+  },
+  {
+    "suit": "d",
+    "face": 8,
+    "symbol": "\uD83C\uDCC8"
+  },
+  {
+    "suit": "d",
+    "face": 9,
+    "symbol": "\uD83C\uDCC9"
+  },
+  {
+    "suit": "d",
+    "face": 10,
+    "symbol": "\uD83C\uDCCA"
+  },
+  {
+    "suit": "d",
+    "face": 11,
+    "symbol": "\uD83C\uDCCB"
+  },
+  {
+    "suit": "d",
+    "face": 12,
+    "symbol": "\uD83C\uDCCD"
+  },
+  {
+    "suit": "d",
+    "face": 13,
+    "symbol": "\uD83C\uDCCC"
+  },
+  {
+    "suit": "d",
+    "face": 14,
+    "symbol": "\uD83C\uDCC1"
+  },
+  {
+    "suit": "c",
+    "face": 2,
+    "symbol": "\uD83C\uDCD2"
+  },
+  {
+    "suit": "c",
+    "face": 3,
+    "symbol": "\uD83C\uDCD3"
+  },
+  {
+    "suit": "c",
+    "face": 7,
+    "symbol": "\uD83C\uDCD7"
+  },
+  {
+    "suit": "c",
+    "face": 8,
+    "symbol": "\uD83C\uDCD8"
+  },
+  {
+    "suit": "c",
+    "face": 9,
+    "symbol": "\uD83C\uDCD9"
+  },
+  {
+    "suit": "c",
+    "face": 10,
+    "symbol": "\uD83C\uDCDA"
+  },
+  {
+    "suit": "c",
+    "face": 11,
+    "symbol": "\uD83C\uDCDB"
+  },
+  {
+    "suit": "c",
+    "face": 12,
+    "symbol": "\uD83C\uDCDD"
+  },
+  {
+    "suit": "c",
+    "face": 13,
+    "symbol": "\uD83C\uDCDC"
+  },
+  {
+    "suit": "c",
+    "face": 14,
+    "symbol": "\uD83C\uDCD1"
+  },
+  {
+    "suit": "h",
+    "face": 2,
+    "symbol": "\uD83C\uDCB2"
+  },
+  {
+    "suit": "h",
+    "face": 3,
+    "symbol": "\uD83C\uDCB3"
+  },
+  {
+    "suit": "h",
+    "face": 4,
+    "symbol": "\uD83C\uDCB4"
+  },
+  {
+    "suit": "h",
+    "face": 5,
+    "symbol": "\uD83C\uDCB5"
+  },
+  {
+    "suit": "h",
+    "face": 6,
+    "symbol": "\uD83C\uDCB6"
+  },
+  {
+    "suit": "h",
+    "face": 7,
+    "symbol": "\uD83C\uDCB7"
+  },
+  {
+    "suit": "h",
+    "face": 8,
+    "symbol": "\uD83C\uDCB8"
+  },
+  {
+    "suit": "h",
+    "face": 9,
+    "symbol": "\uD83C\uDCB9"
+  },
+  {
+    "suit": "h",
+    "face": 10,
+    "symbol": "\uD83C\uDCBA"
+  },
+  {
+    "suit": "h",
+    "face": 11,
+    "symbol": "\uD83C\uDCBB"
+  },
+  {
+    "suit": "h",
+    "face": 12,
+    "symbol": "\uD83C\uDCBD"
+  },
+  {
+    "suit": "h",
+    "face": 13,
+    "symbol": "\uD83C\uDCBC"
+  },
+  {
+    "suit": "h",
+    "face": 14,
+    "symbol": "\uD83C\uDCB1"
+  },
+  {
+    "suit": "s",
+    "face": 2,
+    "symbol": "\uD83C\uDCA2"
+  },
+  {
+    "suit": "s",
+    "face": 3,
+    "symbol": "\uD83C\uDCA3"
+  },
+  {
+    "suit": "s",
+    "face": 4,
+    "symbol": "\uD83C\uDCA4"
+  },
+  {
+    "suit": "s",
+    "face": 5,
+    "symbol": "\uD83C\uDCA5"
+  },
+  {
+    "suit": "s",
+    "face": 6,
+    "symbol": "\uD83C\uDCA6"
+  },
+  {
+    "suit": "s",
+    "face": 7,
+    "symbol": "\uD83C\uDCA7"
+  },
+  {
+    "suit": "s",
+    "face": 8,
+    "symbol": "\uD83C\uDCA8"
+  },
+  {
+    "suit": "s",
+    "face": 9,
+    "symbol": "\uD83C\uDCA9"
+  },
+  {
+    "suit": "s",
+    "face": 10,
+    "symbol": "\uD83C\uDCAA"
+  },
+  {
+    "suit": "s",
+    "face": 11,
+    "symbol": "\uD83C\uDCAB"
+  },
+  {
+    "suit": "s",
+    "face": 12,
+    "symbol": "\uD83C\uDCAD"
+  },
+  {
+    "suit": "s",
+    "face": 13,
+    "symbol": "\uD83C\uDCAC"
+  },
+  {
+    "suit": "s",
+    "face": 14,
+    "symbol": "\uD83C\uDCA1"
+  }
+]
