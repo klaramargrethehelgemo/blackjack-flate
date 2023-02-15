@@ -1,4 +1,4 @@
-# Klara-pokerhands
+# Klara-blackjack
 
 Satt opp med [Create React App](https://github.com/facebook/create-react-app).
 
